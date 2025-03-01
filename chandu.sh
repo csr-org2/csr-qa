@@ -1,3 +1,0 @@
-devops
-bash
-sh
